@@ -4,7 +4,7 @@ A TC39 proposal to synchronize the iteration of multiple arrays.
 
 This proposal is based entirely on https://github.com/tc39/proposal-joint-iteration - in other words, this proposal is `Iterator.zip` and `Iterator.zipKeyed` for arrays.
 
-**Stage**: -1
+**Stage**: 1
 
 **Specification**: https://ljharb.github.io/proposal-array-zip/
 
