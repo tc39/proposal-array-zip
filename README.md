@@ -6,7 +6,7 @@ This proposal is based entirely on https://github.com/tc39/proposal-joint-iterat
 
 **Stage**: 1
 
-**Specification**: https://ljharb.github.io/proposal-array-zip/
+**Specification**: https://tc39.es/proposal-array-zip/
 
 ## Motivation / Problem
 
